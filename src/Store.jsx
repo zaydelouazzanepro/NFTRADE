@@ -51,8 +51,8 @@ const nfts = [
 export default function Store() {
   return (
     <div className=' px-24 mt-24 w-full h-full'>
-      <div className='h-12 w-full'></div>
- <div className='w-40 h-10 rounded-full bg-zinc-900 justify-end border-b-2 border-b-red-700'> <div className='w-9 h-9 rounded-full bg-zinc-700'></div></div>
+   
+
 
       <div className='flex gap-1'>
 
